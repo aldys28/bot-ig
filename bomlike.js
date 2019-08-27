@@ -1,4 +1,3 @@
-# bot-ig
 const Client = require('instagram-private-api').V1;
 const delay = require('delay');
 const chalk = require('chalk');
